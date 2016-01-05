@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion" : "2010-09-09",
+  "AWSTemplateFormatVersion" : "2010-09-09 New",
 
   "Description" : "Cloudformation template to deploy MyBB forum - http://www.mybb.com. Architecture contains a load-balanced, autoscaled MyBB web server application attached to a multi-AZ Relational Database Service database instance. The web site is available on port 80 of the ELB URL (Generated in output section).",
 
